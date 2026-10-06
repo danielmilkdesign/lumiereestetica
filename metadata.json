@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Haute Beauté & Esthétique",
+  "description": "Clínica de estética avançada e boutique de alta beleza. Resultados naturais, diagnóstico de pele 3D, tecnologias consagradas e agendamento inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
